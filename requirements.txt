@@ -1,0 +1,3 @@
+ultralytics           # For YOLO model loading and inference
+opencv-python         # For accessing and displaying webcam feed
+pillow                # For image handling (optional but often used with YOLO)
